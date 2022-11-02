@@ -1,2 +1,2 @@
 # alfan-planning
-rencana kedepan
+Web Tugas Sekolah
